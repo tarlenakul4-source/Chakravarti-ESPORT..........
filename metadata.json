@@ -1,0 +1,6 @@
+{
+  "name": "Chakravyuh E-Sports | Gaming Cafe",
+  "description": "Premier esports arena and gaming cafe in Canada Corner, Nashik offering high-end PCs, PlayStation 5, tournaments, and station booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
